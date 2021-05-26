@@ -55,7 +55,7 @@ body {
 	background-color: #e1e0db;
 	background-image: url(../images/bg.jpg);
 	background-repeat: repeat;
-	font-size:13px;
+	font-size:14px;
 	line-height: 17px;
 	color:#000;
 }
@@ -213,7 +213,7 @@ h3 {
 	float:left;
 	padding:0;
 	clear:both;
-	font-size: 13px;
+	font-size: 14px;
 	color:#9a8b9b;
 }
 
@@ -251,7 +251,7 @@ em {
 	font-family: Georgia, "Times New Roman", serif;
 	font-style: italic;
 	color:#777777;
-	font-size:12px;
+	font-size:13px;
 	display: block;
 	padding-top:3px;
 }
@@ -529,7 +529,7 @@ img.portrait {
 	height: 20px;
 	padding: 5px;
 	background-color: #433245;
-	font-size: 11px;
+	font-size: 12px;
 	text-align: center;
 }
 
